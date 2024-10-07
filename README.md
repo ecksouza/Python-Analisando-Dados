@@ -1,4 +1,6 @@
-Objetivo
+# Análise de Dados de Livros
+
+## Objetivo
 
 O objetivo do código é fornecer uma ferramenta interativa para explorar e analisar dados de livros, permitindo aos usuários entender melhor a distribuição dos preços e anos de publicação dos livros em uma determinada faixa de preço.
 
